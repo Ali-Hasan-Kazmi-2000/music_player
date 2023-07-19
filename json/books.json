@@ -1,0 +1,37 @@
+[
+    {
+        "img": "assets/pic-1.jpg",
+        "ratings": 4.5,
+        "name": "The Water Cure",
+        "author": "Henery joe",
+        "url": "https://cdn.pixabay.com/download/audio/2023/07/06/audio_e12e5bea9d.mp3?filename=epic-hybrid-logo-157092.mp3&g-recaptcha-response=03AAYGu2Sb1LJtRgdvZPc-KX4eH7K2-oLc7ae7X0SHfXp8kgd6r68kXQxA4ufrzvrnossKdXfoBhESpMRgKQkbYyE_GhQsmhPosa8QjKpg3w9lRMDUyUXCTMw_ylsPNOk81ya-5tPf_xERAGdcQVyWUAWhHVBTDZ9s_1-Qg--UJQnTWkqYa6jIYIHmNLXabQNZM9Tn0EReUldYjLxxaGIdV13GiE-GNVDpXvNFbhdJshwRZPrgrr_J2EbtfJHmyjYMQ8hzH4tEmm8JJW3LSNRVBpMvnmNCiotxQYWKtYVwfdO7TgYwXXe2oJTdy8XM04ITX8qtHzEGikNhuSQtqnLysoUzFf8sStAn_fMI-HhEWfxoe9QbhqTg9hWibNHrr9ImyfCEvEjtckizhX4PEjt9V0SQu2myszQPl4_FyVIz05RP1IdkOZolcI6plCHLu4U7-zClwOstNiukQqUz7GG3qVqX8VhpDTJhr-FV5rX7-nCQWf60XKyvB9p3hjTOovnZ8qiZ8xpk1T_49iWmYOEMeSJVTqAzcHTi9g&remote_template=1"
+    },
+    {
+        "img": "assets/pic-2.jpg",
+        "ratings": 4.5,
+        "name": "Peace Life",
+        "author": "John joe",
+        "url": "https://cdn.pixabay.com/download/audio/2023/07/06/audio_e12e5bea9d.mp3?filename=epic-hybrid-logo-157092.mp3&g-recaptcha-response=03AAYGu2Sb1LJtRgdvZPc-KX4eH7K2-oLc7ae7X0SHfXp8kgd6r68kXQxA4ufrzvrnossKdXfoBhESpMRgKQkbYyE_GhQsmhPosa8QjKpg3w9lRMDUyUXCTMw_ylsPNOk81ya-5tPf_xERAGdcQVyWUAWhHVBTDZ9s_1-Qg--UJQnTWkqYa6jIYIHmNLXabQNZM9Tn0EReUldYjLxxaGIdV13GiE-GNVDpXvNFbhdJshwRZPrgrr_J2EbtfJHmyjYMQ8hzH4tEmm8JJW3LSNRVBpMvnmNCiotxQYWKtYVwfdO7TgYwXXe2oJTdy8XM04ITX8qtHzEGikNhuSQtqnLysoUzFf8sStAn_fMI-HhEWfxoe9QbhqTg9hWibNHrr9ImyfCEvEjtckizhX4PEjt9V0SQu2myszQPl4_FyVIz05RP1IdkOZolcI6plCHLu4U7-zClwOstNiukQqUz7GG3qVqX8VhpDTJhr-FV5rX7-nCQWf60XKyvB9p3hjTOovnZ8qiZ8xpk1T_49iWmYOEMeSJVTqAzcHTi9g&remote_template=1"
+    },
+    {
+        "img": "assets/pic-3.jpg",
+        "ratings": 4.5,
+        "name": "Day Remember",
+        "author": "jane Doe",
+        "url": "https://cdn.pixabay.com/download/audio/2023/07/06/audio_e12e5bea9d.mp3?filename=epic-hybrid-logo-157092.mp3&g-recaptcha-response=03AAYGu2Sb1LJtRgdvZPc-KX4eH7K2-oLc7ae7X0SHfXp8kgd6r68kXQxA4ufrzvrnossKdXfoBhESpMRgKQkbYyE_GhQsmhPosa8QjKpg3w9lRMDUyUXCTMw_ylsPNOk81ya-5tPf_xERAGdcQVyWUAWhHVBTDZ9s_1-Qg--UJQnTWkqYa6jIYIHmNLXabQNZM9Tn0EReUldYjLxxaGIdV13GiE-GNVDpXvNFbhdJshwRZPrgrr_J2EbtfJHmyjYMQ8hzH4tEmm8JJW3LSNRVBpMvnmNCiotxQYWKtYVwfdO7TgYwXXe2oJTdy8XM04ITX8qtHzEGikNhuSQtqnLysoUzFf8sStAn_fMI-HhEWfxoe9QbhqTg9hWibNHrr9ImyfCEvEjtckizhX4PEjt9V0SQu2myszQPl4_FyVIz05RP1IdkOZolcI6plCHLu4U7-zClwOstNiukQqUz7GG3qVqX8VhpDTJhr-FV5rX7-nCQWf60XKyvB9p3hjTOovnZ8qiZ8xpk1T_49iWmYOEMeSJVTqAzcHTi9g&remote_template=1"
+    },
+    {
+        "img": "assets/pic-4.jpg",
+        "ratings": 4.5,
+        "name": "Ultra Smash",
+        "author": "William",
+        "url": "https://cdn.pixabay.com/download/audio/2023/07/06/audio_e12e5bea9d.mp3?filename=epic-hybrid-logo-157092.mp3&g-recaptcha-response=03AAYGu2Sb1LJtRgdvZPc-KX4eH7K2-oLc7ae7X0SHfXp8kgd6r68kXQxA4ufrzvrnossKdXfoBhESpMRgKQkbYyE_GhQsmhPosa8QjKpg3w9lRMDUyUXCTMw_ylsPNOk81ya-5tPf_xERAGdcQVyWUAWhHVBTDZ9s_1-Qg--UJQnTWkqYa6jIYIHmNLXabQNZM9Tn0EReUldYjLxxaGIdV13GiE-GNVDpXvNFbhdJshwRZPrgrr_J2EbtfJHmyjYMQ8hzH4tEmm8JJW3LSNRVBpMvnmNCiotxQYWKtYVwfdO7TgYwXXe2oJTdy8XM04ITX8qtHzEGikNhuSQtqnLysoUzFf8sStAn_fMI-HhEWfxoe9QbhqTg9hWibNHrr9ImyfCEvEjtckizhX4PEjt9V0SQu2myszQPl4_FyVIz05RP1IdkOZolcI6plCHLu4U7-zClwOstNiukQqUz7GG3qVqX8VhpDTJhr-FV5rX7-nCQWf60XKyvB9p3hjTOovnZ8qiZ8xpk1T_49iWmYOEMeSJVTqAzcHTi9g&remote_template=1"
+    },
+    {
+        "img": "assets/pic-5.jpg",
+        "ratings": 4.5,
+        "name": "Violet Pearls",
+        "author": "Edward Martin",
+        "url": "https://cdn.pixabay.com/download/audio/2023/07/06/audio_e12e5bea9d.mp3?filename=epic-hybrid-logo-157092.mp3&g-recaptcha-response=03AAYGu2Sb1LJtRgdvZPc-KX4eH7K2-oLc7ae7X0SHfXp8kgd6r68kXQxA4ufrzvrnossKdXfoBhESpMRgKQkbYyE_GhQsmhPosa8QjKpg3w9lRMDUyUXCTMw_ylsPNOk81ya-5tPf_xERAGdcQVyWUAWhHVBTDZ9s_1-Qg--UJQnTWkqYa6jIYIHmNLXabQNZM9Tn0EReUldYjLxxaGIdV13GiE-GNVDpXvNFbhdJshwRZPrgrr_J2EbtfJHmyjYMQ8hzH4tEmm8JJW3LSNRVBpMvnmNCiotxQYWKtYVwfdO7TgYwXXe2oJTdy8XM04ITX8qtHzEGikNhuSQtqnLysoUzFf8sStAn_fMI-HhEWfxoe9QbhqTg9hWibNHrr9ImyfCEvEjtckizhX4PEjt9V0SQu2myszQPl4_FyVIz05RP1IdkOZolcI6plCHLu4U7-zClwOstNiukQqUz7GG3qVqX8VhpDTJhr-FV5rX7-nCQWf60XKyvB9p3hjTOovnZ8qiZ8xpk1T_49iWmYOEMeSJVTqAzcHTi9g&remote_template=1"
+    }
+]
