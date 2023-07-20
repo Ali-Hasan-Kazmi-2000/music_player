@@ -5,6 +5,7 @@ import 'package:music_player/Constants/app_colors.dart' as AppColors;
 import 'package:music_player/files/audio.dart';
 
 class DetailAudioPage extends StatefulWidget {
+  // ignore: prefer_typing_uninitialized_variables
   final booksData;
   final int index;
   const DetailAudioPage({super.key, this.booksData, required this.index});
@@ -80,22 +81,22 @@ class _DetailAudioPageState extends State<DetailAudioPage> {
                   ),
                   Text(
                     this.widget.booksData[this.widget.index]["name"],
-                    style: TextStyle(
+                    style: const TextStyle(
                         fontSize: 30,
                         fontFamily: "Avenir",
                         fontWeight: FontWeight.bold),
                   ),
                   Text(
                     this.widget.booksData[this.widget.index]["author"],
-                    style: TextStyle(
+                    style: const TextStyle(
                         fontSize: 20,
                         fontFamily: "Avenir",
                         fontWeight: FontWeight.bold),
                   ),
                   AudioFile(
-                    advancedAudioPlayer: advancedAudioPlayer,
-                    audioPath: this.widget.booksData[this.widget.index]["url"]
-                  ),
+                      advancedAudioPlayer: advancedAudioPlayer,
+                      audioPath: this.widget.booksData[this.widget.index]
+                          ["url"]),
                 ],
               ),
             ),

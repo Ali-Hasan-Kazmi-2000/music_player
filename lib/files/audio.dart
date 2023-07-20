@@ -70,7 +70,7 @@ class _AudioFileState extends State<AudioFile> {
         onPressed: () {
           this.widget.advancedAudioPlayer.setPlaybackRate(0.5);
         },
-        icon: ImageIcon(
+        icon: const ImageIcon(
           AssetImage("assets/backward.png"),
           size: 15,
           color: Colors.black,
@@ -82,7 +82,7 @@ class _AudioFileState extends State<AudioFile> {
         onPressed: () {
           this.widget.advancedAudioPlayer.setPlaybackRate(1.5);
         },
-        icon: ImageIcon(
+        icon: const ImageIcon(
           AssetImage("assets/forward.png"),
           size: 15,
           color: Colors.black,
